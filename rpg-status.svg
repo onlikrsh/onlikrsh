@@ -45,7 +45,7 @@
 
   <!-- Name block -->
   <text x="32" y="66" class="name-text">Harshith Kasibhatla</text>
-  <text x="32" y="86" class="sub-text">Full Stack Game Dev  //  Chennai, India</text>
+  <text x="32" y="86" class="sub-text">Full Stack Dev  //  Hyderabad, India</text>
 
   <!-- Stats grid -->
   <text x="32" y="118" class="lbl">CLASS</text>
