@@ -49,7 +49,7 @@
 
   <!-- Stats grid -->
   <text x="32" y="118" class="lbl">CLASS</text>
-  <text x="102" y="118" class="val">Game Dev + Full Stack Builder</text>
+  <text x="102" y="118" class="val">Full Stack + Game Dev</text>
 
   <text x="32" y="140" class="lbl">GUILD</text>
   <text x="102" y="140" class="val">Amrita School of Engineering (CSE '25)</text>
