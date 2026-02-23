@@ -35,12 +35,6 @@
   - 🎮 **[Project Name](https://github.com/onlikrsh/your-repo)** — What it does in one line
 -->
 
-## 🏆 Achievements
-
-- 🏅 **5th Rank** — Codeastra Contest (Amritavarsham)
-- 🧠 **Coordinator** — Cognizance Club, built competitive programming community of 100+ members
-- 🏆 **Individual Champion** — College Sports Event 2022
-
 ---
 
 <div align="center">
