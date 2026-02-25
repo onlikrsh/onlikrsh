@@ -10,7 +10,7 @@
 
 </div>
 
-> 🕹️ Building multiplayer games by day, full stack apps by night. Previously shipped core C++ gameplay for **ILAVATH: BATTLE ARENAS** at **5th Ocean Studio**.
+> 🕹️ Building full stack apps, games by night. Previously shipped core C++ gameplay for **ILAVATH: BATTLE ARENAS** at **5th Ocean Studio**.
 
 ### 🗡️ Skill Tree
 
@@ -22,9 +22,9 @@
 
 ## ⚔️ Projects
 
-- 🍽️ **[Kanteen](https://github.com/onlikrsh/REPO_NAME)** — Pre-order system that cut wait times 30% for 200+ daily users, with real-time inventory tracking
-- 🤖 **[Gov Scheme Finder](https://github.com/onlikrsh/REPO_NAME)** — MixTral 8x7b powered discovery across 29 states; 94% faster responses
-- 🔥 **[Calorie Tracker](https://github.com/onlikrsh/REPO_NAME)** — Django-powered food diary + analytics dashboard for 100+ daily active users
+- 🤖 **[SearchTube](https://search-tube-cyan.vercel.app/)** — Distraction-free YouTube search with a clean dark UI
+- 🍽️ **[Kanteen](https://github.com/onlikrsh/Calorie_tracker)** — Pre-order system that cut wait times for daily users, with real-time inventory tracking
+- 🔥 **[Calorie Tracker](https://github.com/onlikrsh/REPO_NAME)** — Django-powered food diary + analytics dashboard
 
 <!--
   📌 TO ADD A NEW PROJECT: Copy a line above and change the emoji, name, link, and description.
