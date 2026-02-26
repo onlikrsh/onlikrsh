@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320" fill="none">
+  <defs>
+    <linearGradient id="hp-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2ea043" />
+      <stop offset="100%" stop-color="#3fb950" />
+    </linearGradient>
+    <linearGradient id="xp-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1f6feb" />
+      <stop offset="100%" stop-color="#58a6ff" />
+    </linearGradient>
+    <linearGradient id="mp-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8957e5" />
+      <stop offset="100%" stop-color="#bc8cff" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    text { font-family: 'SFMono-Regular', 'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', 'Menlo', 'Consolas', 'Liberation Mono', monospace; }
+    .bg { fill: #0d1117; }
+    .border-outer { stroke: #30363d; stroke-width: 1; fill: none; }
+    .title-text { font-size: 10px; fill: #484f58; font-weight: 500; letter-spacing: 4px; }
+    .name-text { font-size: 20px; fill: #e6edf3; font-weight: 700; }
+    .sub-text { font-size: 11.5px; fill: #58a6ff; font-weight: 500; }
+    .lbl { font-size: 10.5px; fill: #484f58; font-weight: 500; }
+    .val { font-size: 10.5px; fill: #c9d1d9; font-weight: 400; }
+    .bar-bg { fill: #161b22; }
+    .bar-lbl { font-size: 9.5px; fill: #484f58; font-weight: 600; letter-spacing: 1px; }
+    .bar-pct { font-size: 9.5px; fill: #7d8590; font-weight: 400; }
+    .divider { stroke: #21262d; stroke-width: 1; }
+    .rig-text { font-size: 8.5px; fill: #30363d; font-weight: 400; letter-spacing: 0.8px; }
+    .ver-text { font-size: 8.5px; fill: #21262d; font-weight: 400; }
+  </style>
+
+  <!-- Card background -->
+  <rect class="bg" width="800" height="320" rx="10" />
+  <rect class="border-outer" x="0.5" y="0.5" width="799" height="319" rx="10" />
+
+  <!-- Window dots -->
+  <circle cx="22" cy="18" r="4" fill="#f85149" opacity="0.7" />
+  <circle cx="36" cy="18" r="4" fill="#d29922" opacity="0.7" />
+  <circle cx="50" cy="18" r="4" fill="#3fb950" opacity="0.7" />
+  <text x="400" y="22" text-anchor="middle" class="title-text">PLAYER STATUS</text>
+
+  <line class="divider" x1="16" y1="34" x2="784" y2="34" />
+
+  <!-- Name block -->
+  <text x="32" y="66" class="name-text">Harshith Kasibhatla</text>
+  <text x="32" y="86" class="sub-text">Full Stack Game Dev  //  Chennai, India</text>
+
+  <!-- Stats grid -->
+  <text x="32" y="118" class="lbl">CLASS</text>
+  <text x="102" y="118" class="val">Game Dev + Full Stack Builder</text>
+
+  <text x="32" y="140" class="lbl">GUILD</text>
+  <text x="102" y="140" class="val">Amrita School of Engineering (CSE '25)</text>
+
+  <text x="32" y="162" class="lbl">TITLE</text>
+  <text x="102" y="162" class="val">Bug Slayer  //  20+ confirmed kills</text>
+
+  <text x="32" y="184" class="lbl">QUEST</text>
+  <text x="102" y="184" class="val">Game Dev Intern @ 5th Ocean Studio</text>
+
+  <line class="divider" x1="16" y1="202" x2="784" y2="202" />
+
+  <!-- HP Bar -->
+  <text x="32" y="232" class="bar-lbl">HP</text>
+  <rect class="bar-bg" x="58" y="220" width="300" height="16" rx="4" />
+  <rect fill="url(#hp-grad)" x="58" y="220" width="270" height="16" rx="4" />
+  <text x="368" y="232" class="bar-pct">90%</text>
+
+  <!-- XP Bar -->
+  <text x="418" y="232" class="bar-lbl">XP</text>
+  <rect class="bar-bg" x="444" y="220" width="300" height="16" rx="4" />
+  <rect fill="url(#xp-grad)" x="444" y="220" width="225" height="16" rx="4" />
+  <text x="754" y="232" class="bar-pct">75%</text>
+
+  <!-- MP Bar -->
+  <text x="32" y="268" class="bar-lbl">MP</text>
+  <rect class="bar-bg" x="58" y="256" width="300" height="16" rx="4" />
+  <rect fill="url(#mp-grad)" x="58" y="256" width="210" height="16" rx="4" />
+  <text x="368" y="268" class="bar-pct">70%</text>
+
+  <!-- STATUS indicator -->
+  <text x="418" y="268" class="bar-lbl">STATUS</text>
+  <circle cx="470" cy="264" r="3.5" fill="#3fb950" />
+  <text x="480" y="268" class="val" style="font-size:10px">building things_</text>
+
+  <line class="divider" x1="16" y1="288" x2="784" y2="288" />
+
+  <!-- Bottom rig bar -->
+  <text x="32" y="308" class="rig-text">RIG  HP OMEN 15  /  RYZEN 7 5800H  /  RTX 3060  /  16GB  /  1TB NVMe</text>
+  <text x="768" y="308" text-anchor="end" class="ver-text">v1.0.0</text>
+
+</svg>
