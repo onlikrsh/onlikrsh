@@ -6,7 +6,7 @@
 ║   HARSHITH KASIBHATLA                                      ║
 ║   Full Stack Game Dev  ·  Chennai, India                   ║
 ║                                                            ║
-║   HP [████████████████████░░░░]  XP [██████████████████░░]  ║
+║   HP [███████████████  ]  XP [████████████      ]          ║
 ║                                                            ║
 ║   Class  : Game Dev + Full Stack Builder                   ║
 ║   Guild  : Amrita School of Engineering (CSE '25)          ║
@@ -21,14 +21,14 @@
 </div>
 
 ```
-> cat skill_tree
+
 
   Languages   C++ · Python · JavaScript · SQL · HTML/CSS
   Frameworks  React · Node.js · Express · Django · MongoDB
   Tools       Unreal Engine · VS Code · Figma · AWS · Git · Linux
 ```
 
-#### `> ls projects/`
+#### `> Projects`
 
 | Project | Stack | What it does |
 |---------|-------|-------------|
@@ -36,7 +36,6 @@
 | [Gov Scheme Finder](https://github.com/onlikrsh/REPO_NAME) | Python, Transformers, LLM | MixTral 8x7b powered — 94% faster responses |
 | [Calorie Tracker](https://github.com/onlikrsh/REPO_NAME) | Python, Django, SQL | Dashboard + tracking for 100+ daily active users |
 
-> *Replace `REPO_NAME` in the links above with your actual repository names.*
 
 ---
 
