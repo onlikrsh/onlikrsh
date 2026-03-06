@@ -28,7 +28,7 @@
 
 ## ⚔️ Projects
 
-- 🤖 **[SearchTube](https://search-tube-cyan.vercel.app/)** — Distraction-free YouTube search with a clean dark UI
+- 🔍 **[SearchTube](https://search-tube-cyan.vercel.app/)** — Distraction-free YouTube search with a clean dark UI
 - 🍽️ **[Kanteen](https://github.com/onlikrsh/Calorie_tracker)** — Pre-order system that cut wait times for daily users, with real-time inventory tracking
 - 🔥 **[Calorie Tracker](https://github.com/onlikrsh/REPO_NAME)** — Django-powered food diary + analytics dashboard
 
